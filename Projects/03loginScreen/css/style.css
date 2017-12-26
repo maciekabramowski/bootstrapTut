@@ -1,6 +1,12 @@
 body {
-  background: url(../pexels-photo-733148.jpeg) no-repeat center center fixed;
+  background: url(../img/pexels-photo-733148.jpeg) no-repeat center center fixed;
   -webkit-background-size: cover;
   background-size: cover;
   background-color: #464646;
+}
+
+#oso-img {
+  max-width: 80px;
+  max-height: 110px;
+  margin: 0 auto;
 }
