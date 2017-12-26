@@ -10,3 +10,11 @@ body {
   max-height: 110px;
   margin: 0 auto;
 }
+
+#login-modal .modal-dialog {
+  width: 350px;
+}
+
+#login-modal input[type=text], input[type=password] {
+  margin-top: 10px;
+}
